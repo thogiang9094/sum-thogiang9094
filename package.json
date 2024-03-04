@@ -1,0 +1,16 @@
+{
+  "name": "sum-thogiang9094",
+  "version": "1.0.0",
+  "description": "ThoGiang Math Một thư viện giúp bạn tính tổng của 2 số bất kỳ Đơn giản, dễ dùng, cực kỳ nhẹ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thogiang9094/sum-thogiang9094"
+  },
+  "keywords": ["sum", "add", "tong", "cong"],
+  "author": "thogiang9094",
+  "license": "ISC"
+}
